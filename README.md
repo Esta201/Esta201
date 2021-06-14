@@ -5,6 +5,8 @@ I’m a <b> third year computer systems engineering student </b> with an interes
 - Developed the motor driver embedded code on a wirelessly powered RC car
 - Prgrammed a chess game (C++) using OOP concepts
 - Desgined a smart energy monitor using Altium, Proteus, Atmel Studio (IDE), and an Atmega328PB
+- Created a Java Android-based application that displays electrical components
+- Designed a flappy bird game in VHDL
 
 Languages: <b> C/C++, Python, Matlab, VHDL </b> 
   
